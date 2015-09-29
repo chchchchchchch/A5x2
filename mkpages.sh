@@ -24,8 +24,9 @@
 # --------------------------------------------------------------------------- #
 # INTERACTIVE CHECKS 
 # --------------------------------------------------------------------------- #
-  if [ ! -f ${SVG%%.*}.svg ]; then echo; echo "We need a svg!"
-                                         echo "e.g. $0 yoursvg.svg"; echo
+  if [ ! -f `echo $SVG | rev | cut -d "." -f 2- | rev`.svg ]
+   then echo; echo "We need a svg!"
+              echo "e.g. $0 yoursvg.svg"; echo
       exit 0;
   fi
   PDF=$OUTDIR/`basename $SVG | rev | cut -d "." -f 2- | rev`.pdf
