@@ -1,15 +1,10 @@
 
- this/that
- orphaned
- not belonging
- to anything
- special
+ Moved to: https://gitlab.com/chch/bits/tree/migrate/E/0000/2xA5
+           https://github.com/chchchchchchch/bits/tree/migrate/E/0000/2xA5
 
-
-
- -------------------------------------------------------------
+ ---------------------------------------------------------------------------
   COPYRIGHT (C) 2016 Christoph Haag
- -------------------------------------------------------------
+ ---------------------------------------------------------------------------
  
  If not stated otherwise permission is granted to copy,
  distribute and/or modify these documents under the terms
@@ -53,4 +48,6 @@
  IS COPYRIGHTED ACCORDING TO ITS RESPECTIVE OWNERS. 
 
  E N J O Y !
+
+ ---------------------------------------------------------------------------
 
