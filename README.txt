@@ -1,6 +1,6 @@
 
- Moved to: https://gitlab.com/chch/bits/tree/migrate/E/0000/2xA5
-           https://github.com/chchchchchchch/bits/tree/migrate/E/0000/2xA5
+ Moved to: https://gitlab.com/chch/bits/tree/d49d1bb1/E/0000/2xA5
+           https://github.com/chchchchchchch/bits/tree/d49d1bb1/E/0000/2xA5
 
  ---------------------------------------------------------------------------
   COPYRIGHT (C) 2016 Christoph Haag
